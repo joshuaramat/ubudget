@@ -1,4 +1,4 @@
-# Budget Tracker
+# uBudget
 
 ## Purpose
 A progressive web application that allows users to track their expenses and deposits without having to be connected to the internet.
@@ -7,7 +7,7 @@ A progressive web application that allows users to track their expenses and depo
 https://frozen-ridge-66275.herokuapp.com/
 
 ## Screenshot
-![Screenshot of top of page](./public/image/BudgetTracker.jpg)
+![Screenshot of top of page](./public/screenshot/uBudget.png)
 
 ## Built With
 * HTML
